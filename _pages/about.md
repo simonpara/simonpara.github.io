@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a>Postdoctoral fellow at:</a> <a href='https://uwaterloo.ca/astrophysics-centre/'>Waterloo Centre for Astrophysics</a>. 
 
 profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Waterloo Centre for Astrophysics</p>
     <p>Dept. of Physics and Astronomy</p>
     <p>200, University Ave W</p>
     <p>Waterloo, ON, Canada  N2L 3G1</p>

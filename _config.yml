@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Simone 
 middle_name: 
 last_name: Paradiso
-email: simone.paradiso@uwaterloo.ca
+email: simone.paradiso@uwaterloo.ca :)
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Hi there! This is my personal website. Here you'll find info about my current and past research projects, as well as teaching material and some bonus staff too!
 footer_text: >

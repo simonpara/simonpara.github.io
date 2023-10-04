@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: BeyondPlanck
+description: A Bayesian end-to-end framework for CMB data analysis
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://beyondplanck.science
 importance: 3
 category: work
 ---

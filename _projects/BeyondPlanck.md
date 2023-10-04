@@ -2,7 +2,7 @@
 layout: page
 title: BeyondPlanck
 description: A Bayesian end-to-end framework for CMB data analysis
-img: assets/img/7.jpg
+img: assets/img/bp_logo.png
 redirect: https://beyondplanck.science
 importance: 3
 category: work

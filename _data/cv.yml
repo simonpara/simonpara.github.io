@@ -2,41 +2,96 @@
   type: map
   contents:
     - name: Full Name
-      value: Simone Paradiso
+      value: Albert Einstein
     - name: Date of Birth
-      value: 28th November 1992
+      value: 14th March 1879
     - name: Languages
-      value: English, Italian
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Milan, Milan, Italy
-      year: 2021
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        - title: CMB Likelihood and Cosmological Parameter estimation in a Bayesian end-to-end framework.
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
           contents:
-            - Study of the reionization history of the Universe through CMB data.
-            - Development of an end-to-end Bayesian framework to analyse CMB data, from raw time ordered data to cosmological parameters estmiation. This work has been carried on within the BeyondPlanck project, and my focus has been on CMB map estimation, likelihood implementation and cosmological parameters estimation.
-    - title: MSc Astronomy and Astrophysics
-      institution: University of Rome "La Sapienza", Rome, Italy
-      year: 2016
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
-        - title: Constraints on Cosmological Parameters from CMB and Weak Lensing surveys
-   - title: Bs Physics and Astrophysics
-      institution: University of Rome "La Sapienza", Rome, Italy
-      year: 2014
-      description:
-        - title: Astrophysical evidence of Dark Matter
+        - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Postdoc
-      institution: University of Milan, Milan, UnivItalyersity
-      year: 2021 - 2022
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
+      description:
+        - Description 1.
+        - Description 2.
 
-    - title: Postdoc
-      institution: Waterloo Centre for Astrophysics, University of Waterloo, Waterloo, ON, Canada
-      year: 2023 - ongoing
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
+
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
+      description:
+
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1921
+      items: 
+        - Nobel Prize in Physics 
+        - Matteucci Medal
+    - year: 2029
+      items: 
+        - Max Planck Medal
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items: 
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

@@ -6,7 +6,7 @@ subtitle: <a>Postdoctoral fellow at:</a> <a href='https://uwaterloo.ca/astrophys
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: fotoCV.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Dept. of Physics and Astronomy</p>

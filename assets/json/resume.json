@@ -24,11 +24,20 @@
   },
   "work": [
     {
+      "name": "INAF-OAS",
+      "position": "Postdoctoral fellow",
+      "url": "",
+      "startDate": "2024",
+      "endDate": "",
+      "summary": "Probing new fundamental physics through CMB polarization data. Cosmic birefringence.",
+      "highlights": []
+    },
+    {
       "name": "Waterloo Centre for Astrophysics",
       "position": "Postdoctoral fellow",
       "url": "",
       "startDate": "2023",
-      "endDate": "",
+      "endDate": "2024",
       "summary": "Statistical cosmology",
       "highlights": []
     },
@@ -36,7 +45,7 @@
       "name": "University of Milan",
       "position": "Postdoctoral fellow",
       "url": "",
-      "startDate": "2022",
+      "startDate": "2021",
       "endDate": "2022",
       "summary": "Data Analysis for LSPE-STRIP experiment; Finalization of the BeyondPlanck work",
       "highlights": []

@@ -7,7 +7,7 @@ subtitle: <a>Postdoctoral fellow at:</a> <a href='https://www.oas.inaf.it/it/'>I
 profile:
   align: right
   image: fotoCV.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   #more_info: >
   #  <p>Dept. of Physics and Astronomy</p>
   #  <p>200, University Ave W</p>
